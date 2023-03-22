@@ -10,7 +10,7 @@ Preparation Steps:
      python -m pip install pyjnius
      ```
  3. Java SE Development (JDK - any version > 8) and Set its env as Java default.
- 4. Jedai-core and its dependencies - jedai-core-3.0-jar-with-dependencies.jar
+ 4. Jedai-core and its dependencies: Download jedai-core-3.0-jar-with-dependencies.jar and put this file in your woking directory
  
  ## Documentation of Jedai-core
  
