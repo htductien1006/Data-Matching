@@ -29,5 +29,15 @@ docker pull gmandi/jedai-webapp
 docker run -p 8080:8080 gmandi/jedai-webapp
 ```
 Let it run and wait for until you get like the below:
-!(https://drive.google.com/file/d/12lhwDkge-WRRUwBERJpeMahIMalzUlKO/view?usp=share_link)
+![ ]e.google.com/file/d/12lhwDkge-WRRUwBERJpeMahIMalzUlKO/view?usp=share_link)
  
+Then, open your browser and go to (http://localhost:8080/)
+Next, follow these steps:
+  1. Click "New Workflow"
+  2. Choose "Desktop Mode"
+  3. Choos any workflow
+  4. At "Select ER Mode", choose Clean-Clean Entity Resolution
+  5. Choose the data format at the dropdown "Serialized" and Configure it with profile datasets
+  6. After configuring for Entity profiles D1 and D2, click Add Ground-Truth file and do like step 5
+
+Done, you can see the content by clicking "Explore"
