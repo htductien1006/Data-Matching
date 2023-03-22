@@ -29,11 +29,7 @@ docker pull gmandi/jedai-webapp
 docker run -p 8080:8080 gmandi/jedai-webapp
 ```
 Let it run and wait for until you get like the below:
-![ ](https://drive.google.com/file/d/12lhwDkge-WRRUwBERJpeMahIMalzUlKO/view?usp=share_link)
-<picture>
-  <source media="" srcset="(https://drive.google.com/file/d/12lhwDkge-WRRUwBERJpeMahIMalzUlKO/view?usp=share_link">
-  <img alt=""
-</picture>
+![ ](https://github.com/htductien1006/Data-Matching/blob/005f9d539dfe2af596b1519d6d40c4efca304e8c/docker.png)
  
 Then, open your browser and go to (http://localhost:8080/)
 Next, follow these steps:
