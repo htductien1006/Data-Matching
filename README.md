@@ -1,4 +1,4 @@
-# Read datasets in Python
+# Read JSO datasets in Python
 
 ## Environment
 Preparation Steps:
