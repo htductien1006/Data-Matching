@@ -2,7 +2,7 @@
 
 ## Environment
 Preparation Steps:
-  1. Python3 (should be Python 3.10 version) and Pip
+  1. Python3 (should be Python 3.10 version) and Pip in latest version
   2. Pyjnius package
      ```
      pip install pyjnius
