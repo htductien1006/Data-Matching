@@ -29,7 +29,7 @@ docker pull gmandi/jedai-webapp
 docker run -p 8080:8080 gmandi/jedai-webapp
 ```
 Let it run and wait for until you get like the below:
-![ ]e.google.com/file/d/12lhwDkge-WRRUwBERJpeMahIMalzUlKO/view?usp=share_link)
+![ ](https://drive.google.com/file/d/12lhwDkge-WRRUwBERJpeMahIMalzUlKO/view?usp=share_link)
  
 Then, open your browser and go to (http://localhost:8080/)
 Next, follow these steps:
